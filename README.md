@@ -1,29 +1,40 @@
 <p align="center">Hello there, you are currently on <strong>Alvien Cenna</strong>'s Github</p>
 
 <p align="center">
-  A final year <strong>informatics engineering student</strong>.<br>
-  A <strong>generalist full-stack software engineer</strong> who loves to explore many things and is seeking out a field to be an expert in.<br>
-  <strong>Experienced</strong> in many projects of <strong>Web Development</strong>, both front end and back end, with various stacks, <br>
-  <strong>Machine Learning and Data Science</strong> using Python, and <strong>Game Development</strong> using C# with Unity.<br>
-  A <strong>Linux and Open Source enthusiast</strong>.
+  A fresh graduate in <strong>informatics engineering</strong>.<br>
+  I am a Full-Stack Developer with hands-on experience in building and deploying scalable web applications and integrating Machine Learning/AI solutions into real-world projects.
+  Skilled in front-end and back-end frameworks such as Laravel, Vue.js, and Express.js, as well as API development, database management, and deploying applications on Linux and cloud platforms.
+  Additionally, experienced in Machine Learning, including training and deploying models using TensorFlow (Certified) and PyCaret.
 </p>
 
 <p align="center">
   <strong>Reach out</strong> :<br>
-  <a href="mailto:pincenna@gmail.com">pincenna@gmail.com</a>
+  <a href="mailto:alpiencenna@gmail.com">alpiencenna@gmail.com</a>
 </p>
 <hr>
 
 <p align="center"><strong>Experienced in</strong> :</p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,vue,express,prisma,php,laravel,mysql,postgresql,py,django,flask,selenium,r,java,go,cpp,cs,unity,linux,docker,git,github,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,dart,java,go,cpp,cs&perline=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,ai,ps,figma,pr,postman" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vue,express,prisma,laravel,flutter,mysql,postgresql,sklearn,tensorflow,django,flask,selenium&perline=7" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=linux,docker,vercel,supabase,nginx,git,github,unity,arduino" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,androidstudio,ai,ps,figma,pr,postman" />
   </a>
 </p>
 <hr>
